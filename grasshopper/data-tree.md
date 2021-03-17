@@ -1,10 +1,17 @@
+---
+layout: default
+title: ツリー構造
+parent: Grasshopper基礎
+nav_order: 5
+---
+
 # ツリー構造
 
 Grasshopperではコンポーネントから出力されるデータ構造を、**ツリー構造**という形式に落とし込んで整理している。
 
 これを理解することがGrasshopper中級者～上級者への一歩。
 
-![](/assets/datatree.jpg)
+<img src="../assets/datatree.jpg" alt="hi" class="inline"/>
 
 * 基本的には1対１で対応する
 * 相手の数が多いときは、自分の最後の要素が相手方のはみ出た要素の相手をする
@@ -14,6 +21,3 @@ Grasshopperではコンポーネントから出力されるデータ構造を、
   * **Simplify：**意味のない階層を消去する\(葉をもたない枝を消す\)
   * **Reverse：**要素の順序を入れ替える\(葉の順を入れ替える\)
 * 以上の機能は各コンポーネントの端子を右クリックすることで追加することも可能
-
-
-

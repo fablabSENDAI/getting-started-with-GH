@@ -1,6 +1,15 @@
+---
+layout: default
+title: コンポーネント
+parent: Grasshopper基礎
+nav_order: 1
+---
+
 # コンポーネント
 
-Rhinocerosでいうコマンドが格納された箱。これをつないでいくことでGrasshopperでのプログラムを作っていく。![](/assets/components.jpg)
+Rhinocerosでいうコマンドが格納された箱。これをつないでいくことでGrasshopperでのプログラムを作っていく。
+
+<img src="../assets/components.jpg" alt="hi" class="inline"/>
 
 * 左側が**入力**、右側が**出力**
 * 各端子を**ドラッグで繋ぐ**ことで、コンポーネント同士を接続する
@@ -20,6 +29,3 @@ Rhinocerosでいうコマンドが格納された箱。これをつないでい�
   * **緑**：選択中
 
   * **灰色**：プレビューOFF、Rhino画面に表示されない
-
-
-

@@ -1,3 +1,10 @@
+---
+layout: default
+title: パネルとナンバースライダー
+parent: Grasshopper基礎
+nav_order: 4
+---
+
 # パネルとナンバースライダー
 
 数値を手打ちして、プログラムの反応を確かめるときに便利なのがパネルとナンバースライダー。
@@ -8,7 +15,7 @@
 
 ほかのコンポーネントの出力内容のチェックにも使える。
 
-![](/assets/panel.jpg)
+<img src="../assets/panel.jpg" alt="hi" class="inline"/>
 
 * 複数のデータを入れる場合は、右クリックでmultilinedataを切っておく
 
@@ -16,14 +23,13 @@
 
 設定した値の範囲内で、スライダーを動かして感覚的に出力する数値を変更できる。
 
-![](/assets/numslider_after.jpg)
+<img src="../assets/numslider_after.jpg" alt="hi" class="inline"/>
 
 下記のように検索ウィンドウ\(キャンバスをダブルクリックすると出現\)に書き込めば、  
 上の図のナンバースライダーをつくるショートカットもある。
 
-![](/assets/numslider_before.jpg)
+<img src="../assets/numslider_before.jpg" alt="hi" class="inline"/>
 
 **最小値 &lt; 初期値 &lt; 最大値 **としてスライダーを作れる。
 
 数値を5.00のように書き込めば、小数点以下2桁まで動かせるスライダーも作成可能。
-
