@@ -9,6 +9,7 @@ nav_order: 6
 本チュートリアルで参考にしたサイト、書籍など
 
 * #### Rhino-GH.com \([サイトリンク](http://rhino-gh.com/)\)
+* #### Grasshopper コンポーネントIndex \([サイトリンク](https://www.applicraft.com/ghcp_index/)\)
 * #### Parametric Design with Grasshopper  建築/プロダクトのための、Grasshopperクックブック\([書籍リンク](https://www.amazon.co.jp/Parametric-Design-Grasshopper-増補改訂版-プロダクトのための、Grasshopperクックブック/dp/4802511213)\)　\([ウェブリンク](https://www.facebook.com/Parametric.Design.with.Grasshopper/)\)
 * #### Rhinoceros+Grasshopper建築デザイン実践ハンドブック \([書籍リンク](https://www.amazon.co.jp/Rhinoceros-Grasshopper建築デザイン実践ハンドブック-建築文化シナジー-ノイズアーキテクツ/dp/4395241239/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=C1WYNP9AM0XM4HMF9KVR)\)
 * #### Voronoi pattern on random surface \([動画リンク](https://www.youtube.com/watch?v=tpazyRd_t-I)\)
