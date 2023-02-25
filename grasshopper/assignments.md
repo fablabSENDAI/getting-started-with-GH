@@ -13,8 +13,12 @@ nav_order: 6
 
 <img src="../assets/array.jpg" alt="hi" class="inline"/>
 
+<a href="../assets/challenge01.zip">解答例ダウンロード</a>
+
 ### 課題２：ランダム!
 
 グリッド上に配置した板の傾きを個別にランダムに変化させる
 
 <img src="../assets/random.jpg" alt="hi" class="inline"/>
+
+<a href="../assets/challenge02.zip">解答例ダウンロード</a>
