@@ -16,4 +16,4 @@ nav_order: 6
 * #### Food4Rhino \([サイトリンク](https://www.food4rhino.com/)\)
 * #### Rhinoceros Forum \([サイトリンク](https://discourse.mcneel.com/)\)
 * #### Crystallon\([サイトリンク](https://www.food4rhino.com/app/crystallon)\)
-* #### Rhinoceros Michinoku \([サイトリンク](https://www.facebook.com/groups/1484958954921930/)\)
+* #### Rhinoceros Users Community Japan \([Discordリンク](https://discord.gg/SeEHDQSeP8)\)
