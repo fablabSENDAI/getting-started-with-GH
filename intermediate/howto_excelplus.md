@@ -16,12 +16,12 @@ GHプログラム内部の値を、excelファイルとして保存するGHサ�
 上記GHサンプルには、"セーブするフォルダの場所"と説明されたパネルが内蔵されています。<br>
 その名の通り、ここを変更するとexcelが書き出されるフォルダが変更されます。
 
-<img src="../assets/excelplus_01.jpg" alt="hi" class="inline"/>
+<img src="../assets/excelPlus_01.jpg" alt="hi" class="inline"/>
 
 まず、windowsエクスプロ―ラーを開き、excelファイルを保存したいフォルダまで移動します。<br>
 保存先のフォルダを開いた状態で、エクスプロ―ラー上部のパスをクリックし、コピーします。
 
-<img src="../assets/excelplus_02.jpg" alt="hi" class="inline"/>
+<img src="../assets/excelPlus_02.jpg" alt="hi" class="inline"/>
 
 コピーした文字列を先程のパネルにペーストして、フォルダのパスを上書きすれば保存場所の変更は完了です。<br>
 セーブ実行ボタンをおせば、excelファイルを書き出します。
