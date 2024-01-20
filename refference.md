@@ -17,5 +17,5 @@ nav_order: 7
 * #### Rhinoceros Forum \([サイトリンク](https://discourse.mcneel.com/)\)
 * #### Crystallon\([サイトリンク](https://www.food4rhino.com/app/crystallon)\)
 * #### Rhinoceros Users Community Japan \([Discordリンク](https://discord.gg/SeEHDQSeP8)\)
-* #### 事前学習資料リスト (<a href="../assets/事前学習資料リスト.pdf">ダウンロードリンク</a>)
-* #### 参考例リンク集_2024年版 (<a href="../assets/GH参考例リンク集202401.pdf">ダウンロードリンク</a>)
+* #### 事前学習資料リスト (<a href="./assets/事前学習資料リスト.pdf">ダウンロードリンク</a>)
+* #### 参考例リンク集_2024年版 (<a href="./assets/GH参考例リンク集202401.pdf">ダウンロードリンク</a>)
